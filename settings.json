@@ -1,0 +1,53 @@
+{
+	"$schema": "https://joplinapp.org/schema/settings.json",
+	"locale": "zh_CN",
+	"api.token": "5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27",
+	"markdown.plugin.softbreaks": false,
+	"markdown.plugin.typographer": false,
+	"spellChecker.language": "en-US",
+	"ui.layout": {
+		"key": "root",
+		"children": [
+			{
+				"key": "sideBar",
+				"width": 250,
+				"visible": true
+			},
+			{
+				"key": "noteList",
+				"width": 250,
+				"visible": true
+			},
+			{
+				"key": "editor",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"noteVisiblePanes": [
+		"editor",
+		"viewer"
+	],
+	"sync.target": 8,
+	"clipperServer.autoStart": true,
+	"editor.codeView": false,
+	"theme": 1,
+	"themeAutoDetect": true,
+	"preferredDarkTheme": 5,
+	"style.editor.fontFamily": "Fira Code",
+	"style.editor.monospaceFontFamily": "Fira Code",
+	"dateFormat": "YYYY-MM-DD",
+	"editor.keyboardMode": "",
+	"trackLocation": false,
+	"sync.8.path": "notes-joplin-1307362884",
+	"sync.8.url": "https://cos.ap-nanjing.myqcloud.com/",
+	"sync.8.username": "AKIDAC0c2EE7rOjrkQs52nKcfWDg5IGyQckj",
+	"sync.interval": 43200,
+	"layoutButtonSequence": 0,
+	"preferredLightTheme": 1,
+	"autoUpdateEnabled": false,
+	"sync.resourceDownloadMode": "auto",
+	"markdown.plugin.emoji": true,
+	"startMinimized": true
+}
