@@ -32,7 +32,7 @@
 	"sync.target": 8,
 	"clipperServer.autoStart": true,
 	"editor.codeView": false,
-	"theme": 1,
+	"theme": 5,
 	"themeAutoDetect": true,
 	"preferredDarkTheme": 5,
 	"style.editor.fontFamily": "Fira Code",
