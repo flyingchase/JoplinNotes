@@ -32,10 +32,10 @@
 	"sync.target": 8,
 	"clipperServer.autoStart": true,
 	"editor.codeView": false,
-	"theme": 5,
+	"theme": 6,
 	"themeAutoDetect": true,
-	"preferredDarkTheme": 5,
-	"style.editor.fontFamily": "Fira Code",
+	"preferredDarkTheme": 6,
+	"style.editor.fontFamily": "SF Pro Text",
 	"style.editor.monospaceFontFamily": "Fira Code",
 	"dateFormat": "YYYY-MM-DD",
 	"editor.keyboardMode": "",
@@ -45,9 +45,10 @@
 	"sync.8.username": "AKIDAC0c2EE7rOjrkQs52nKcfWDg5IGyQckj",
 	"sync.interval": 43200,
 	"layoutButtonSequence": 0,
-	"preferredLightTheme": 1,
+	"preferredLightTheme": 6,
 	"autoUpdateEnabled": false,
 	"sync.resourceDownloadMode": "auto",
 	"markdown.plugin.emoji": true,
-	"startMinimized": true
+	"startMinimized": true,
+	"style.editor.fontSize": 13
 }
