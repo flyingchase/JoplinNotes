@@ -1666,3 +1666,28 @@ Error: Missing "token" parameter
 2021-09-29 10:56:48: "Request: GET /tags?page=1&order_by=title&order_dir=ASC&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
 2021-09-29 10:57:06: "Request: POST /notes?nounce=1632884208485&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
 2021-09-29 12:02:04: "Starting Clipper server on port 41184"
+2021-09-29 18:06:04: "Starting Clipper server on port 41184"
+2021-09-29 20:07:13: "Request: GET /ping"
+2021-09-29 20:07:13: "Request: GET /auth/check?token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-29 20:07:13: "Request: GET /folders?as_tree=1&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-29 20:07:13: "Request: GET /tags?page=1&order_by=title&order_dir=ASC&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-30 11:52:42: "Starting Clipper server on port 41184"
+2021-09-30 18:11:46: "Request: GET /ping"
+2021-09-30 18:11:46: "Request: GET /folders?as_tree=1&port=41184&token="
+2021-09-30 18:11:47: "Error: Missing "token" parameter
+Error: Missing "token" parameter
+    at Api.checkToken_ (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/services/rest/Api.js:181:19)
+    at Api.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/services/rest/Api.js:146:18)
+    at Generator.next (<anonymous>)
+    at /Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/services/rest/Api.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/services/rest/Api.js:4:12)
+    at Api.route (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/services/rest/Api.js:98:16)
+    at ClipperServer.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/ClipperServer.js:168:58)
+    at Generator.next (<anonymous>)
+    at /Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/ClipperServer.js:8:71"
+2021-09-30 18:11:56: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-30 18:12:06: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-30 18:12:16: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-30 18:12:27: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-09-30 18:12:37: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
