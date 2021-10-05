@@ -2216,3 +2216,5 @@ Error: Missing "token" parameter
 2021-10-02 14:39:30: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
 2021-10-02 14:39:40: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
 2021-10-02 14:39:50: "Request: GET /folders?as_tree=1&port=41184&token=5dfa8d0a8b72fc35cf16c8fa4d4cd3bd6f9f44b8777e1bd65940e8a6b1691e087544e66ffb6d3c765d54fc37ae50caebbcc9ba3847af0eda516cf0af4322be27"
+2021-10-04 20:36:27: "Starting Clipper server on port 41184"
+2021-10-04 20:37:38: "Starting Clipper server on port 41184"
